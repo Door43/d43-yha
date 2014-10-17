@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yha:home|Door43 (yha)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yha|d43-yha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yha/archive/master.zip|d43-yha.zip]]
+
+**Recent Changes**
+{{changes>ns = yha}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yha|Ethnologue data]]
+
